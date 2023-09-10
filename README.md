@@ -64,7 +64,7 @@ Contributions are welcome! Feel free to open issues and pull requests to suggest
 
 ## Usage
 
-Feel free to use this portfolio as a source of inspiration for your own projects, or as a reference to learn about front-end development techniques and best practices. If you'd like to collaborate or have any feedback, please don't hesitate to get in touch.
+Feel free to use this project as a source of inspiration for your own projects, or as a reference to learn about front-end development techniques and best practices. If you'd like to collaborate or have any feedback, please don't hesitate to get in touch.
 
 ## License
 
