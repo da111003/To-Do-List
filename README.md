@@ -1,9 +1,9 @@
 
 # To-Do-List
 
-![To-Do-List Preview](images/todo-list-preview.png)
+## A Simple To-Do Website!
 
-A Simple To-Do Website!
+<img width="1437" alt="Screenshot 2023-09-11 at 4 19 03 AM" src="https://github.com/da111003/ToDoList/assets/79132054/bf108613-19b9-4fc1-b7aa-800682ea9f1b">
 
 ## Features
 
@@ -19,17 +19,19 @@ Check out the live demo of the To-Do List here: [Live Demo](https://da111003.git
 
 ## Screenshots
 
-![Light Theme](images/light-theme.png)
-*Light Theme*
+**Light Theme**
 
-![Dark Theme](images/dark-theme.png)
-*Dark Theme*
+<img width="1440" alt="Screenshot 2023-09-11 at 4 29 31 AM" src="https://github.com/da111003/ToDoList/assets/79132054/32c3a9ed-9843-4508-bd69-d27f727d9532">
 
-## Usage
+**Dark Theme**
+
+<img width="1440" alt="Screenshot 2023-09-11 at 4 29 41 AM" src="https://github.com/da111003/ToDoList/assets/79132054/a8e09274-7373-4971-bd69-7e461a17461f">
+
+## How to use ?
 
 1. Visit the [Live Demo](https://da111003.github.io/ToDoList/).
-2. Add your tasks in the input field and press "Enter" or click the "Add" button.
-3. To mark a task as completed, simply click on the task.
+2. Add your tasks in the input field and press "I Got this!" button.
+3. To mark a task as completed, simply click on the right tick icon.
 4. To delete a task, click the trash can icon next to it.
 5. Change the theme by clicking on the theme switcher at the top-right corner.
 6. Your to-do list is automatically saved locally, so you can continue where you left off later.
@@ -45,14 +47,6 @@ To run this project locally:
 
 2. Open the index.html file in your preferred web browser.
 
-## Contribution
-
-Contributions are welcome! Feel free to open issues and pull requests to suggest features, report bugs, or make improvements to the project.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## References
 
 * For Fonts: [Google Fonts](https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap)
@@ -63,4 +57,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * For help with CSS: [CSS Tricks](https://css-tricks.com/)
 * For more CSS effects: [text-effects](https://speckyboy.com/underline-text-effects-css/)
 * For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
+
+## Contribution
+
+Contributions are welcome! Feel free to open issues and pull requests to suggest features, report bugs, or make improvements to the project.
+
+## Usage
+
+Feel free to use this portfolio as a source of inspiration for your own projects, or as a reference to learn about front-end development techniques and best practices. If you'd like to collaborate or have any feedback, please don't hesitate to get in touch.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+You can reach me via email at <aggarwald241@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/deepakaggarwal111003/). Feedback, suggestions, and opportunities for collaboration are always welcome!
+
+Thank you for visiting. Enjoy exploring the projects!
 
