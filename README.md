@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-Check out the live demo of the To-Do List here: [Live Demo](https://github.com/da111003/To-Do-List)
+Check out the live demo of the To-Do List here: [Live Demo](https://da111003.github.io/To-Do-List/)
 
 ## Screenshots
 
@@ -29,7 +29,7 @@ Check out the live demo of the To-Do List here: [Live Demo](https://github.com/d
 
 ## How to use ?
 
-1. Visit the [Live Demo](https://github.com/da111003/To-Do-List).
+1. Visit the [Live Demo](https://da111003.github.io/To-Do-List/).
 2. Add your tasks in the input field and press "I Got this!" button.
 3. To mark a task as completed, simply click on the right tick icon.
 4. To delete a task, click the trash can icon next to it.
